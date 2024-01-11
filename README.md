@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dabaja245
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning R,SQL, python
-- 💞️ I’m looking to collaborate on data-related projects
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning C,SQL, python
+- 💞️ I’m looking to collaborate on cyber-related projects
 - 📫 Reach me at husiandabaja@gmail.com
 - resume 
 
